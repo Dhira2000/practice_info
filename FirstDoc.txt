@@ -1,3 +1,5 @@
 first document in practice_info
 
 modified in developing branch
+
+changes added to merge from developing branch
